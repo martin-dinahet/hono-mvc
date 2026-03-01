@@ -10,7 +10,8 @@ A super simple, lightweight backend server using Hono.
 - Custom, production-ready auth guards for your routes
 - Request validation with `zod`
 - Custom error handling
-- Simple database setup with Docker
+- Postgres database setup with Docker
+- ORM with Prisma
 
 ## Quickstart
 
